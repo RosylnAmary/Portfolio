@@ -1,7 +1,6 @@
 {
   "name": "tunis",
   "version": "1.0.0",
-  "description": "",
   "main": "tailwind.config.js",
   "dependencies": {
     "tailwindcss": "^3.3.3"
@@ -12,5 +11,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
